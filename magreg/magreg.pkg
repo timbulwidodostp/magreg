@@ -1,4 +1,5 @@
-D 'DEA': Data envelopment analysis
+D 'magreg': Maximum agreement regression Use magreg With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F magreg.ado
+F magreg.sthlp
+F magreg_est.ado
